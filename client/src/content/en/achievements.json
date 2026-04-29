@@ -1,0 +1,24 @@
+{
+  "seo": {
+    "title": "Achievements – Shri Daddala Narayana",
+    "description": "A timeline of major milestones and measurable constituency work (sample content, replace with verified records).",
+    "ogImage": "/leader.jpg"
+  },
+  "achievements": {
+    "headline": "Major Achievements (Sample)",
+    "items": [
+      {"year": "2024", "title": "Public transparency", "impact": "Published key disclosures via the election affidavit (MyNeta/ADR)."},
+      {"year": "2024", "title": "Constituency listening programs", "impact": "Structured public meetings to collect issues and track follow-ups."},
+      {"year": "2023", "title": "Health outreach", "impact": "Supported medical camps and referral awareness in villages (replace with verified numbers)."},
+      {"year": "2023", "title": "Education support", "impact": "Helped connect students to scholarships and skill guidance (replace with verified numbers)."},
+      {"year": "2022", "title": "Road safety & access", "impact": "Coordinated issue reporting for critical road stretches (replace with verified details)."},
+      {"year": "2022", "title": "Women empowerment", "impact": "Engaged SHGs for livelihoods and grievance redressal (replace with verified details)."},
+      {"year": "2021", "title": "Youth engagement", "impact": "Built volunteer teams for cleanups, awareness drives, and service days."},
+      {"year": "2021", "title": "Farmer support coordination", "impact": "Facilitated awareness on schemes and documentation support (replace with verified numbers)."},
+      {"year": "2020", "title": "Local infrastructure follow-up", "impact": "Tracked pending works with departments for timely completion."},
+      {"year": "2019", "title": "Community problem-solving", "impact": "Regular field visits to prioritize drinking water, drainage, and roads."},
+      {"year": "2018", "title": "Public grievance channel", "impact": "Established a process to record, route, and close citizen requests."},
+      {"year": "2016", "title": "Grassroots leadership", "impact": "Expanded local network for faster issue escalation and resolution."}
+    ]
+  }
+}

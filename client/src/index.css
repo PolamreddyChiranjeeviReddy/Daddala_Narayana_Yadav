@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --fg: #0b1220;
+  --muted: rgba(11, 18, 32, 0.7);
+  --card: rgba(255, 255, 255, 0.75);
+  --ring: rgba(15, 23, 42, 0.14);
+
+  --accent: #0aa35b;
+  --accent2: #0b4edb;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: 'Montserrat', sans-serif;
+}
+
+:lang(te) {
+  font-family: 'Peddana', serif;
+  font-size: 1.2rem;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--fg);
+}
