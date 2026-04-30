@@ -16,6 +16,7 @@ export type TestimonialItem = {
   role: string
   photo: string
   story: string
+  videoUrl?: string
 }
 
 export type SeoData = {

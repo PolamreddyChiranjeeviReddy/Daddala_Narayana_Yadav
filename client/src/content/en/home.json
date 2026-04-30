@@ -12,13 +12,12 @@
     "badges": ["People-First", "Accountability", "Delivery Focus"]
   },
   "hero": {
-    "headline": "Visionary Leader | Community Champion | Governance with Results",
-    "tagline": "Clear vision, measurable work, and constant connect with the people of Kanigiri.",
+    "headline": "Dr. Daddala Narayana Yadav Garu\nRooted in Kanigiri • Fighting for Its Future",
+    "tagline": "YSRCP Leader of the soil, standing for farmers, youth, and the poor — turning promises into schools, roads, and dignity for every family.",
     "stats": [
-      {"label": "Constituency outreach", "value": "Year-round"},
-      {"label": "Focus areas", "value": "Health • Education • Roads"},
-      {"label": "Public trust", "value": "People-first"},
-      {"label": "2024 affidavit", "value": "MyNeta/ADR"}
+      {"label": "Constituency Outreach", "value": "With the people, every day", "icon": "people"},
+      {"label": "Focus Areas", "value": "Farmers • Health • Education • Roads • Water • Youth Jobs", "icon": "target"},
+      {"label": "Public Trust", "value": "Not just politics, but a promise kept", "icon": "shield"}
     ],
     "didYouKnow": {
       "label": "Did you know?",
@@ -38,7 +37,7 @@
       "VERIFIED PUBLIC FACTS (2024 election affidavit, via MyNeta/ADR):\n• Constituency: Kanigiri (Prakasam District, Andhra Pradesh)\n• Party: YSRCP\n• Age: 42 years\n• Education: B.Sc (G.C. & YPN Degree College, Kanigiri — 2004) and B.Ed (M.V.J. College of Education, Bangalore — 2006)\n• Professional Background: Business (Real Estate & Granite Trade) and Political Leadership\n• Criminal cases declared: 3 (refer to original affidavit for details)\n• Total Assets declared: ₹3,68,19,218\n• Total Liabilities declared: ₹1,70,09,907\n(For the most recent and complete information, please refer to the latest affidavit on the Election Commission of India archive or MyNeta portal.)",
       "REPORTED IN LOCAL MEDIA (Sakshi, Jan 19, 2024):\n• YSR Congress Party leadership announced him as YSRCP in-charge for Kanigiri constituency\n• From Perugupalli village, Veligandla mandal—where his roots run deep\n• Serving as ZPTC (Zilla Parishad Territorial Constituency) member from Hanumanthunipadu mandal\n• Active in YSRCP since 2014, building grassroots support and connecting with constituents\n• Known in local business community as a realtor and granite businessman\n• Spouse: Daddala Manjubhargavi, sarpanch (village headwoman) of Hussainpuram panchayat\n(Source: https://www.sakshi.com/telugu-news/prakasam/1921972)",
       "PUBLIC PROFILE & ONGOING WORK:\n• YouTube official channel: Kanigiri Assembly Constituency @ysrcongress Incharge\n(Source: https://www.youtube.com/@Dr.DaddalaNarayanaYadav)\n• Since appointment as in-charge, has actively engaged with district administration, law enforcement, and local governance bodies to strengthen support systems for Kanigiri residents\n• Reported public activity (Lokal Telugu, Jan 23, 2024): Met with Prakasam district SP Mallika Garg to coordinate on public safety and development initiatives\n(Source: https://telugu.getlokalapp.com/andhra-news/prakasam-new/kanigiri/kanigiri-ycp-in-charge-who-met-the-sp-12453146)",
-      "\"This is not about power. This is about people. Every farmer, every worker, every woman, every child in Kanigiri deserves to know that someone is fighting for them. And I will never stop.\" — Daddala Narayana Yadav Garu"
+      "This is not about power. This is about people. Every farmer, every worker, every woman, every child in Kanigiri deserves to know that someone is fighting for them. And I will never stop. — Daddala Narayana Yadav Garu"
     ]
   },
   "heroSlider": {

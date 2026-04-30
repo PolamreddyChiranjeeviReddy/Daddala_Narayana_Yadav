@@ -2,10 +2,11 @@ import { getPageContent } from '../content/pages'
 import { Seo } from '../components/seo/Seo'
 import { useLanguage } from '../components/i18n/language'
 
-import { Header } from '../components/Header'
+import { NewHeader } from '../components/NewHeader'
 import { HeroSection } from '../components/sections/HeroSection'
 import { HeroSlider } from '../components/sections/HeroSlider'
-import { TestimonialsSection } from '../components/sections/TestimonialsSection'
+import { ParagraphSlider } from '../components/sections/ParagraphSlider'
+import { TestimonialsCarousel } from '../components/sections/TestimonialsCarousel'
 import { Container } from '../components/Container'
 import { FooterSimple } from '../components/FooterSimple'
 
@@ -17,7 +18,7 @@ export function HomePage() {
   return (
     <div className="min-h-screen">
       <Seo title={content.seo.title} description={content.seo.description} ogImage={content.seo.ogImage} />
-      <Header leaderName={content.leader.name} />
+      <NewHeader leaderName={content.leader.name} />
 
       <main>
         <HeroSection
@@ -28,22 +29,16 @@ export function HomePage() {
 
         <HeroSlider items={content.heroSlider.items} />
 
-        <section className="py-12 sm:py-14">
+        <section id="about" className="py-12 sm:py-14">
           <Container>
-            <h2 className="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">
+            <h2 className="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl mb-5">
               {content.about.headline}
             </h2>
-            <div className="mt-5 grid gap-4 text-sm leading-7 text-slate-600">
-              {content.about.paragraphs.map((p) => (
-                <p key={p} className="whitespace-pre-line">
-                  {p}
-                </p>
-              ))}
-            </div>
+            <ParagraphSlider paragraphs={content.about.paragraphs} />
           </Container>
         </section>
 
-        <TestimonialsSection headline={content.testimonials.headline} items={content.testimonials.items} />
+        <TestimonialsCarousel headline={content.testimonials.headline} items={content.testimonials.items} />
       </main>
 
       <FooterSimple content={content} />

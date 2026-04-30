@@ -1,4 +1,4 @@
-import { Header } from '../components/Header'
+import { NewHeader } from '../components/NewHeader'
 import { FooterSimple } from '../components/FooterSimple'
 import { Seo } from '../components/seo/Seo'
 import { Container } from '../components/Container'
@@ -14,7 +14,7 @@ export function SimplePage({ page, heading }: { page: Exclude<PageKey, 'home' | 
   return (
     <div className="min-h-screen">
       <Seo title={content.seo.title} description={content.seo.description} ogImage={content.seo.ogImage} />
-      <Header leaderName={home.leader.name} />
+      <NewHeader leaderName={home.leader.name} />
 
       <main>
         <section className="py-12 sm:py-14">
